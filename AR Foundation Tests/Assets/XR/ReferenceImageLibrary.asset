@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4811548618612443316
+  m_GuidHigh: 14855445777744693666
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4959285618094052317
+      m_GuidHigh: 2382739798237966515
+    m_SerializedTextureGuid:
+      m_GuidLow: 6225247976470980957
+      m_GuidHigh: 4589039125512085339
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: BigCube
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5492758293617135785
+      m_GuidHigh: 6877080362289936567
+    m_SerializedTextureGuid:
+      m_GuidLow: 15169274545575521180
+      m_GuidHigh: 5031920488662455499
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: DeathStar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4748613123401249983
+      m_GuidHigh: 12462816389059463555
+    m_SerializedTextureGuid:
+      m_GuidLow: 5347047814556801874
+      m_GuidHigh: 17413304078282708058
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: TextBubblePrefab
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4944734590148016455
+      m_GuidHigh: 15356750919266896315
+    m_SerializedTextureGuid:
+      m_GuidLow: 122798610921188867
+      m_GuidHigh: 10745951568007382120
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Video Player
+    m_Texture: {fileID: 0}
